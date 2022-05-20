@@ -45,6 +45,8 @@ public class Samp {
 
 	    String text1 = txtpass.getText();
 	    System.out.println(text1);
+	    System.out.println(text1);
+	    
 	    
 	    WebElement btnlogin1 = drive.findElement(By.xpath("//button[@class='_2KpZ6l _2HKlqd _3AWRsL']"));
 	    
